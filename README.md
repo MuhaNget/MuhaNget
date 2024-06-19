@@ -2,11 +2,11 @@
 
 <hr>
 
-<p dir="auto">My name is Muammed Nget. I'm a full-stack developer with 2 years experience. I'm constantly seeking innovative solutions with intuitive problem solving skills one step at a time. All my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I am more passionate about backend engineering.</p>
+<p dir="auto">My name is Muammed Nget. I'm a full-stack developer with over 2 years experience. I'm constantly seeking innovative solutions with intuitive problem solving skills one step at a time. All my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I am more passionate about backend engineering.</p>
 
 - 🌱 I’m currently learning **React Native and Google Cloud**
 
-- 💬 Ask me about **Java, Nodejs, Express, Clean Code, and Clean Architecture**
+- 💬 Ask me about ** Programming(Java, Nodejs, Express, C#) Databases(MySQL, MSSQL, MongoDB, PostgreSQL), Design(Clean Code, and Clean Architecture)**
 
 - 📫 How to reach me **nget1100@gmail.com**
   

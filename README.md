@@ -4,7 +4,7 @@
 
 <p dir="auto">My name is Muammed Nget. I'm a full-stack developer with over 4 years experience. I'm constantly seeking innovative solutions with intuitive problem solving skills one step at a time. All my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I am very much passionate about fullstack engineering.</p>
 
-- 🌱 I’m currently learning **React Native and Google Cloud**
+- 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about ** Programming, Databases, Design(Clean Code, and Clean Architecture)**
 
